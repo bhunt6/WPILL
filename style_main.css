@@ -1,0 +1,238 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #ffffff;
+  color: #333;
+  font-family: "Open Sans"; 
+}
+
+h1 { 
+  font-family: Book Antiqua; 
+  font-size: 32px; 
+  font-style: normal; 
+  font-variant: normal; 
+  font-weight: 700; 
+  line-height: 23px; 
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTXhCUOGz7vYGh680lGh-uXM.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(https://fonts.gstatic.com/s/opensans/v13/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans Semibold'), local('OpenSans-Semibold'), url(https://fonts.gstatic.com/s/opensans/v13/MTP_ySUJH_bn48VBG8sNSnhCUOGz7vYGh680lGh-uXM.woff) format('woff');
+}
+
+#container{
+  display: flex;
+  flex-direction: column;
+}
+
+#nav_cont{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-content: stretch;
+  background-color: #5a8c70;
+  column-gap: 20px;
+  padding-right: 80px;
+  height: 90px;
+}
+
+#nav_cont .box {
+  display: flex;
+  grid-template-columns: auto;
+  grid-template-rows: 48px;
+  background-color: inherit;
+}
+
+#nav_cont .box > a {
+  padding: 10px;
+  align-self: end;
+  justify-self: start;
+  text-decoration: none;
+  color:  #ffffff;
+  white-space: nowrap;
+}
+
+#nav_cont .box > a:hover {
+  background-color: #ca9731;
+  color: #ffffff;
+  /*box-shadow: 0 -2px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);*/
+}
+
+.dropdown {
+  position: relative;
+  display: block;
+}
+
+.dropdown:hover .dropdown-content {
+  display: inline-block;
+}
+
+.dropdown:hover .dropbtn > a{
+  background-color: #ca9731;
+  color: #ffffff;
+}
+
+.dropbtn{
+  height: 48px;
+  width:auto;
+  margin-top: 42px;
+}
+
+.dropbtn > a {
+  text-decoration: none;
+  white-space: nowrap;
+  padding: 10px;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #ca9731;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  white-space: nowrap;
+  }
+
+.dropdown-content a {
+  padding: 10px;
+  display: block;
+  text-decoration: none;
+  background-color: #ca9731;
+  color: #ffffff;
+  border-left: 2px solid #ca9731;
+  }
+
+.dropdown-content a:hover {
+  background-color: #a8721b;
+  color: #ffffff;
+  border-color: #a8721b;
+}
+
+.dropdown-content a:first-child {
+  border-top: 2px solid #ca9731;
+}
+
+#banner {
+  width: 100%;
+  background-image: url(http://s30.postimg.org/x0ne0p5wx/bootsrap.png);
+  height: 425px;
+  background-position: center;
+}
+
+#banner img{
+  width: 100%;
+  height: auto;
+  min-width: 1215px;
+  min-height: 425px;
+  border: none;
+}
+
+#break {
+  background-color: #5a8c70;
+  height: 85px;
+}
+
+#cards_section{
+  padding: 5% 10% 5% 10%;
+}
+
+#card_content{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#card_intro{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#card_intro > h1, p{
+  padding-bottom: 15px;
+}
+
+#cards{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.card > .img_mask{
+  height: 280px;
+  width: 280px;
+  padding: 15px;
+  margin: 15px 25px 15px 25px;
+  box-shadow: 0 -2px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+#cards > .card{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.img_mask > img{
+  height: 280px;
+  width: 280px;
+}
+
+.card_text{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card_text > h3{
+  color: #5a8c70;
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+
+#action_section{
+  padding: 5% 10% 10% 10%;
+}
+
+#action_content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#action_btn{
+  height: 70px;
+  width: 420px;
+}
+#action_btn > a{
+  width: 100%;
+  height: 100%;
+  display: flex; 
+  align-items: center; 
+  justify-content: center;  
+  background-color: #ca9731;
+  color: #ffffff;
+  border-radius: 15px;
+  text-decoration: none;
+}
+
+#action_btn > a:hover{
+  background-color: #a8721b;
+}
