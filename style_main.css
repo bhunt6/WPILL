@@ -294,7 +294,8 @@ h3{
 }
 
 #card_intro > h1, p{
-  padding-bottom: 15px;
+  padding: 0px 50px 15px 50px;
+  text-align: center;
 }
 
 #cards{
@@ -378,3 +379,56 @@ h3{
   display: flex;
   flex-direction: column;
 }
+
+/*    Current Issues Page Content     */
+
+#issue_section{
+  padding: 0% 10% 5% 10%;
+}
+
+#issue_content{
+  display: flex;
+  flex-direction: column;
+}
+
+#issue_title_cont{
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
+#contents{
+  margin-top: 20px;
+  padding: 20px 0px 0px 20px;
+}
+
+#editors:after {
+  content : "";
+  position: absolute;
+  left    : 25%;
+  height  : 20px;
+  width   : 50%;  /* or 100px */
+  border-bottom: rgb(204, 204, 204) solid 2px;
+}
+
+.small_download{
+  height: 20px;
+}
+
+.large_download{
+  height: 35px;
+  width: 100%;
+}
+
+.list_item{
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: space-between;
+}
+ul{
+  list-style-type: none;
+}
+
+/*    Past Issues Page Content     */
