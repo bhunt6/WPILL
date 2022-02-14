@@ -3,7 +3,8 @@
 <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="style_main.css">
-    <title>WPILL/current_issue</title>
+    <title>WPILL/past_issues</title>
+    <script type="text/javascript" src="issues.js"></script>
 </head>
 
 <body>
@@ -51,12 +52,12 @@
         <!--Title-->
         <div id="title_section">
             <div id="title_content">
-                <span class="title_text">Current Issue</span>
+                <span class="title_text">Past Issues</span>
             </div>
         </div>
         <!--/Title-->
         <div id="issue_section">
-            <div id="issue_content" >
+            <!--<div id="issue_content" >
                 <div id="issue_title_cont">
                     <span id="issue_title" class="subtitle_text">Volume 10 - Spring 2022</span>
                     <a href=""><img class="large_download" src="images/download_icon_dark.png" /></a>
@@ -93,7 +94,7 @@
                         </li>
                     </ul>
                 </div>
-            </div>
+            </div>-->
         </div>
         <!--Footer-->
         <div id="footer_section">
@@ -111,5 +112,35 @@
         </div>
         <!--/Footer-->
     </div>
+<script>
 
+    const issue_section = document.getElementById("issue_section");
+    
+    const past_issues = issues.slice(0, issues.length-1).reverse();
+    past_issues.forEach(issue => {
+
+        var htmlString = `
+                <div class="issue_content">
+                    <div class="issue_title_cont">
+                        <span id="issue_title" class="subtitle_text">${issue.id}</span>
+                        <a href="${issue.full_issue}"><img class="large_download" src="images/download_icon_dark.png" /></a>
+                    </div>
+                    <div class="editors">
+                        <p style="font-style: italic; padding: 10px 0px 0px 20px;">${issue.editor.join(", ")} eds.</p>
+                    </div>
+                    <div class="contents">
+                        <ul class="content_list">`;
+
+        issue.article.forEach(element => {
+            htmlString += `<li class="list_item">
+                                <p>${element.title}</p>
+                                <a href="${element.file}"><img class="small_download" src="images/download_icon_dark.png" /></a>
+                            </li>`
+        });
+
+        htmlString += `</ul></div></div>`;
+
+        issue_section.innerHTML += htmlString;
+    });
+</script>
 </body>
