@@ -12,7 +12,7 @@
     </div>
 <!--Nav-->
     <div id="nav_cont">
-        <div class="box"><a href="main.html"><h4>Home</h4></a></div>
+        <div class="box"><a href="index.html"><h4>Home</h4></a></div>
         <div class="box"><a href="submissions.html"><h4>Submissions</h4></a></div>
         <div class="box">
             <div class="dropdown">
@@ -120,9 +120,16 @@
                 <div class="contents">
                     <ul class="content_list">`;
                     
+    if (current.ack) {
+        htmlString += `<li class="list_item">
+                    <p><i>${current.ack.title}</i></p>
+                    <a href="${current.ack.file}"><img class="small_download" src="images/download_icon_dark.png" /></a>
+                </li>`
+    }
+
     current.article.forEach(element => {
         htmlString += `<li class="list_item">
-                            <p>${element.title}</p>
+                            <p>${element.author} <i>${element.title}</i></p>
                             <a href="${element.file}"><img class="small_download" src="images/download_icon_dark.png" /></a>
                         </li>`
     });                 

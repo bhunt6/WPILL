@@ -1,6 +1,7 @@
 issues = [
     {
         "id": "Volume 1 - Spring 1992",
+        "full_issue": "texts/issue_1/WPIL_Volume_1.pdf",
         "editor": ["Thomas Purnell"],
         "article": [
             {
@@ -32,6 +33,7 @@ issues = [
     },
     {
         "id": "Volume 2 - Spring 1993",
+        "full_issue": "texts/issue_2/WPIL_Volume_2.pdf",
         "editor": [
             "William Fleitz",
             "Takako Kawasaki",
@@ -67,6 +69,7 @@ issues = [
     },
     {
         "id": "Volume 3 - Spring 1996",
+        "full_issue": "texts/issue_3/WPIL_Volume_3.pdf",
         "editor": [
             "Shelby Largay",
             "Terry Stryer"
@@ -101,12 +104,13 @@ issues = [
     },
     {
         "id": "Volume 4 - Spring 1997",
+        "full_issue": "texts/issue_4/WPIL_Volume_4.pdf",
         "editor": ["Stephanie Buchner"],
+        "ack": {
+            "title": "Acknowledgements",
+            "file": "texts/issue_4/4_ack.pdf"
+        },
         "article": [
-            {
-                "title": "acknowledgements",
-                "file": "texts/issue_4/4_ack.pdf"
-            },
             {
                 "author": "Marisa Schaer:",
                 "title": "The Occurrence of Gerunds in CP Clauses",
@@ -131,15 +135,16 @@ issues = [
     },
     {
         "id": "Volume 5 - Spring 1998",
+        "full_issue": "texts/issue_5/WPIL_Volume_5.pdf",
         "editor": [
             "Miwako Hisagi",
             "Jennifer Martin"
         ],
+        "ack": {
+            "title": "Acknowledgements",
+            "file": "texts/issue_5/5_ack.pdf"
+        },
         "article": [
-            {
-                "title": "acknowledgements",
-                "file": "texts/issue_5/5_ack.pdf"
-            },
             {
                 "author": "Miwako Hisagi:",
                 "title": "Mora versus Syllable: An Analysis of Native Speakers' Production from a Japanese Language Game",
@@ -149,6 +154,11 @@ issues = [
                 "author": "Nikoleta Dineen and Daiva Miller:",
                 "title": "The Derivation of a Sonority Hierarchy from the Syllable Contact Law (SCL) and the Productivity of the SCL in American English",
                 "file": "texts/issue_5/5_Dineen.pdf"
+            },
+            {
+                "author": "Marietta Bradinova and David Welch:",
+                "title": "Sonority Violations in Slavic Languages: Bulgarian, Russian, and Polish",
+                "file": "texts/issue_5/5_Bradinova.pdf"
             },
             {
                 "author": "Anthhony Nguyen and Carol Brouha:",
@@ -174,15 +184,16 @@ issues = [
     },
     {
         "id": "Volume 6 - Fall 1999",
+        "full_issue": "texts/issue_6/WPIL_Volume_6.pdf",
         "editor": [
             "Miwako Hisagi",
             "Marietta Bradinova"
         ],
+        "ack": {
+            "title": "Acknowledgements",
+            "file": "texts/issue_6/6_ack.pdf"
+        },
         "article": [
-            {
-                "title": "Acknowledgements",
-                "file": "texts/issue_6/6_ack.pdf"
-            },
             {
                 "author": "Kathleen Baker:",
                 "title": "Seussisms and Violations to Universal Language Constraints",
@@ -219,7 +230,7 @@ issues = [
                 "file": "texts/issue_6/6_Rhyne.pdf"
             },
             {
-                "author": "-Brian Rose:",
+                "author": "Brian Rose:",
                 "title": "<i>-Ing<\/i>lish 101",
                 "file": "texts/issue_6/6_Rose.pdf"
             }
@@ -227,15 +238,16 @@ issues = [
     },
     {
         "id": "Volume 7 - Fall 2000",
+        "full_issue": "texts/issue_7/WPIL_Volume_7.pdf",
         "editor": [
             "Christina Villafa&ntilde;a",
             "Sonja Knecht-Hoshi"
         ],
+        "ack": {
+            "title": "Acknowledgements",
+            "file": "texts/issue_7/7_ack.pdf"
+        },
         "article": [
-            {
-                "title": "Acknowledgements",
-                "file": "texts/issue_7/7_ack.pdf"
-            },
             {
                 "author": "Maria S. Beldon:",
                 "title": "Order Preference for Reduplicated Words with Differing Vowels",
@@ -262,14 +274,14 @@ issues = [
                 "file": "texts/issue_7/7_Olt.pdf"
             },
             {
-                "author": "Christina Villafa&ntilde;a:",
-                "title": "Subject Prominence in English Middles",
-                "file": "texts/issue_7/7_Villafana.pdf"
-            },
-            {
                 "author": "Szilvia Oszko:",
                 "title": "A Lexicalist Approach To Absolute Reflexives",
                 "file": "texts/issue_7/7_Oszko.pdf"
+            },
+            {
+                "author": "Christina Villafa&ntilde;a:",
+                "title": "Subject Prominence in English Middles",
+                "file": "texts/issue_7/7_Villafana1.pdf"
             },
             {
                 "author": "Abby Brown:",
@@ -280,16 +292,17 @@ issues = [
     },
     {
         "id": "Volume 8 - Fall 2011",
+        "full_issue": "texts/issue_8/WPIL_Volume_8.pdf",
         "editor": [
             "Judith Hadley",
             "Tel Monks",
             "Jill Waybright"
         ],
+        "ack": {
+            "title": "Acknowledgements",
+            "file": "texts/issue_8/8_ack.pdf"
+        },
         "article": [
-            {
-                "title": "Acknowledgements",
-                "file": "texts/issue_8/8_ack.pdf"
-            },
             {
                 "author": "Barbara Heigl:",
                 "title": "[s] Under the influence of alcohol.",
@@ -301,7 +314,7 @@ issues = [
                 "file": "texts/issue_8/8_Hilanto.pdf"
             },
             {
-                "author": "Jodi Lamm",
+                "author": "Jodi Lamm:",
                 "title": "Making Sense out of Nonsense Poetry.",
                 "file": "texts/issue_8/8_Lamm.pdf"
             },
@@ -334,17 +347,17 @@ issues = [
     },
     {
         "id": "Volume 9 - Fall 2013",
-        "full_issue": "texts/issue_9/WPILL_volume_9.pdf",
+        "full_issue": "texts/issue_9/WPIL_volume_9.pdf",
         "editor": [
             "Katie Shoaf",
             "Claudia Calissie",
             "LaBrea Bass"
         ],
+        "ack": {
+            "title": "Acknowledgements",
+            "file": "texts/issue_9/9_ack.pdf"
+        },
         "article": [
-            {
-                "title": "Acknowledgements",
-                "file": "texts/issue_9/9_ack.pdf"
-            },
             {
                 "author": "Chris Alderman:",
                 "title": "Glossomimesis.",
@@ -362,7 +375,7 @@ issues = [
             },
             {
                 "author": "Justin Voigt:",
-                "title": "Can the Syntactic Burden on Working Memory Account for Island Constraints?.",
+                "title": "Can the Syntactic Burden on Working Memory Account for Island Constraints?",
                 "file": "texts/issue_9/9_JustinVoigt_Working Memory.pdf"
             },
             {
@@ -389,11 +402,11 @@ issues = [
             "Benjamin Hunt",
             "Jonathan M Marine"
         ],
+        "ack": {
+            "title": "Acknowledgements",
+            "file": "texts/issue_10/10_ack.pdf"
+        },
         "article": [
-            {
-                "title": "Acknowledgements",
-                "file": "texts/issue_10/10_ack.pdf"
-            },
             {
                 "author": "Your Mom:",
                 "title": "A test paper: Testing the tests.",

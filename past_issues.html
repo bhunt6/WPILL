@@ -14,7 +14,7 @@
         </div>
         <!--Nav-->
         <div id="nav_cont">
-            <div class="box"><a href="main.html">
+            <div class="box"><a href="index.html">
                     <h4>Home</h4>
                 </a></div>
             <div class="box"><a href="submissions.html">
@@ -130,10 +130,17 @@
                     </div>
                     <div class="contents">
                         <ul class="content_list">`;
+        
+        if (issue.ack) {
+            htmlString += `<li class="list_item">
+                                <p><i>${issue.ack.title}</i></p>
+                                <a href="${issue.ack.file}"><img class="small_download" src="images/download_icon_dark.png" /></a>
+                            </li>`
+        }
 
         issue.article.forEach(element => {
             htmlString += `<li class="list_item">
-                                <p>${element.title}</p>
+                                <p>${element.author} <i>${element.title}</i></p>
                                 <a href="${element.file}"><img class="small_download" src="images/download_icon_dark.png" /></a>
                             </li>`
         });
