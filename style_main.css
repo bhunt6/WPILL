@@ -433,6 +433,7 @@ h3{
 .large_download{
   height: 35px;
   width: 100%;
+  display: none;
 }
 
 .list_item{
