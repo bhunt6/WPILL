@@ -1,0 +1,28 @@
+The public facing is https://orgs.gmu.edu/wpill.
+
+It is VERY important to fix your umask BEFORE editing or creating any files. If you do not do this step, files you upload may display a forbidden message on the website. If other people in your group edit the website, change your umask to 002; If only you edit your website, change it to 022. Instructions are available: https://its.gmu.edu/knowledge-base/how-to-fix-server-upload-permissions/. To check if the permissions were successfully changed, log out of SSH and disconnect from any FTP session. Log back in and type umask at the command prompt. If you get ‘2’ or ‘22’ then you've successfully changed it. IMPORTANT: The change is not reflected until you disconnect from ALL SFTP connections before you test this. To exit SSH Client type “exit” at the command prompt and hit enter. If you have followed all instructions and still are having trouble please email webmaster@gmu.edu.
+
+CONNECTION SETTINGS
+Server (or SFTP address): mason.gmu.edu
+Username: Mason Username (NetID) – not including @gmu.edu
+Password: Patriot Pass password (the same you use to login to your Mason email)
+Remote filepath (or root directory): /nfs/jiju41/org/wpill
+Your URL is: https://orgs.gmu.edu/wpill
+
+GUIDELINES
+1. The server defaults to index.html so it is recommended that you use this as your *main page.*
+2. At no time should there be any world writable files or directories in your directory. If there is a need for this, please email webmaster to determine a solution. A program is run periodically to revert all world writable files to group writable for security purposes.
+3. Only business/academic related files can be stored in this directory.
+4. The web server is NOT to be used for archiving old pages of your site. If you are no longer using a directory or pages, please remove it from the web server.
+5. All websites should follow the policies and procedures located at: https://its.gmu.edu/knowledge-base/web-development/
+6. All websites must meet web accessibility guidelines. Please see “Accessibility” section below.
+
+ACCESSIBILITY
+As an organization of the Commonwealth of Virginia, George Mason University materials, including websites and documents, are required to meet accessibility regulations included in Section 508 of the Rehabilitation Act. Prior to going live with an official website, the Assistive Technology Initiative Office must review your site for compliance. Please request a review at least two weeks in advance of your launch date: https://ati.gmu.edu/requesting-services/ You also may want to include the ATI office in early stages of development. Any accessibility violations should be corrected prior to launch. If any website is found to be inaccessible after launch, the ATI office will contact the site owner to correct the issues. If the issues are not corrected by the compliance deadline it is subject to removal until issues are corrected.
+
+QUOTA
+Quotas are enforced on the server, default quota amounts are 200 MB for schools, departments, and centers and 100 MB for organizations. If you are over your quota, you will be unable to upload new material to your website and when editing existing files it is possible to upload a 0KB file in place of your actual page. Please monitor your quota closely or contact webmaster@gmu.edu with your filepath. Older versions of your site or file archives should be stored on a local computer or external storage device, not on the web server.
+
+TRAINING
+Training classes for Dreamweaver are available periodically. To view upcoming training workshops, visit: https://workshops.gmu.edu In addition, the STAR-Multimedia computer lab is staffed with mentors who can assist you with issues related to Dreamweaver or Contribute. For hours and policies, visit: https://its.gmu.edu/service/student-technology-assistance-and-resource-star-lab/ .
+If you have any questions, please feel free to email webmaster@gmu.edu. I will be happy to assist you.
