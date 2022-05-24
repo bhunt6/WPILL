@@ -408,10 +408,30 @@ issues = [
         },
         "article": [
             {
-                "author": "Your Mom:",
-                "title": "A test paper: Testing the tests.",
-                "file": "texts/issue_10/10_test.pdf"
+                "author": "Shadden Ahmad Alfadhil:",
+                "title": "The Accuracy of Producing the Emphatic and Non-emphatic [s] Among Arabic-English Bilingual Children.",
+                "file": "texts/issue_10/Alfadhil_2022.pdf"
             },
+            {
+                "author": "Esther R. Namubiru:",
+                "title": "Nuancing Resilience for the Post-Pandemic Writing Center Community.",
+                "file": "texts/issue_10/Namubiru_2022.pdf"
+            },
+            {
+                "author": "Nic Nusbaumer:",
+                "title": "Monitoring Policy Post-Implementation: Rhetorical Chorus and the Limits of Opaque Policy Evaluation Frameworks.",
+                "file": "texts/issue_10/Nusbaumer_2022.pdf"
+            },
+            {
+                "author": "Arlee Pearlswig:",
+                "title": "Anime Japanese and Nickname Formation Constraints: Comparing Standard Language to Media Language.",
+                "file": "texts/issue_10/Pearlswig_2022.pdf"
+            },
+            {
+                "author": "Kristen K. Tiscione:",
+                "title": "Incorporating Ancient Egyptian Rhetoric Into Contemporary Judicial Speech.",
+                "file": "texts/issue_10/Tiscione_2022.pdf"
+            }
             
         ]
     }
