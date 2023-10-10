@@ -434,5 +434,40 @@ issues = [
             }
             
         ]
+    },
+    {
+        "id": "Volume 11 - Fall 2023",
+        //"full_issue": "texts/issue_11/WPILL_volume_10-compressed.pdf",
+        "editor": [
+            "Benjamin Hunt",
+            "Jonathan M Marine"
+        ],
+        "ack": {
+            "title": "Acknowledgements",
+            "file": "texts/issue_11/11_ack.pdf"
+        },
+        "article": [
+            {
+                "author": "Janalyn Miklas:",
+                "title": "Turkish Morphology Acquisition: A comparative analysis of L1 and L2 acquisition processing models",
+                "file": "texts/issue_11/Miklas_2023.pdf"
+            },
+            {
+                "author": "Willmaria Miranda:",
+                "title": "Nuancing Resilience for the Post-Pandemic Writing Center Community.",
+                "file": "texts/issue_11/Miranda_2023.pdf"
+            },
+            {
+                "author": "Arlee Pearlswig:",
+                "title": "Patterns of Distribution of Noun Case Frequency",
+                "file": "texts/issue_11/Pearlswig_2023.pdf"
+            },
+            {
+                "author": "Alaina Ruffin and Anthony Peraino:",
+                "title": "“The Youth Shall Lead”: A Linguistic Justice Project on Student Linguistic Profiles in Higher Education",
+                "file": "texts/issue_10/Ruffin_2023.pdf"
+            }
+            
+        ]
     }
 ];
