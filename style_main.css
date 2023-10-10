@@ -125,6 +125,7 @@ h3{
   grid-template-columns: auto;
   grid-template-rows: 48px;
   background-color: inherit;
+  z-index: 2;
 }
 
 #nav_cont .box > a {
