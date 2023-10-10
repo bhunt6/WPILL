@@ -361,17 +361,17 @@ issues = [
             {
                 "author": "Chris Alderman:",
                 "title": "Glossomimesis.",
-                "file": "texts/issue_9/9_ChrisAlderman-compressed.pdf"
+                "file": "texts/issue_9/9_ChrisAlderman.pdf"
             },
             {
                 "author": "John Kinney:",
                 "title": "The L2 English production of [ð] in word-initial onset and intervocalic onset position: A pilot study.",
-                "file": "texts/issue_9/9_JohnKinney-compressed.pdf"
+                "file": "texts/issue_9/9_JohnKinney.pdf"
             },
             {
                 "author": "Justin Voigt:",
                 "title": "The Distinction between Noun-Phrase Premodifiers: Nouns are not Adjectives.",
-                "file": "texts/issue_9/9_JustinVoigt_NP Premodifiers-compressed.pdf"
+                "file": "texts/issue_9/9_JustinVoigt_NP Premodifiers.pdf"
             },
             {
                 "author": "Justin Voigt:",
