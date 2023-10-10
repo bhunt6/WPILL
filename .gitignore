@@ -1,0 +1,3 @@
+# ignore everything in old_texts and old_files
+old_files/
+old_texts/
