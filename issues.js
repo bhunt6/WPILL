@@ -465,7 +465,7 @@ issues = [
             {
                 "author": "Alaina Ruffin and Anthony Peraino:",
                 "title": "“The Youth Shall Lead”: A Linguistic Justice Project on Student Linguistic Profiles in Higher Education",
-                "file": "texts/issue_10/Ruffin_2023.pdf"
+                "file": "texts/issue_11/Ruffin_2023.pdf"
             }
             
         ]
