@@ -454,7 +454,7 @@ issues = [
             },
             {
                 "author": "Willmaria Miranda:",
-                "title": "Nuancing Resilience for the Post-Pandemic Writing Center Community.",
+                "title": "Writing Studies Beliefs & Values as Expressed Through Research Methods Texts: The Case for an Interdisciplinary Approach to Equitable Research Practices",
                 "file": "texts/issue_11/Miranda_2023.pdf"
             },
             {
