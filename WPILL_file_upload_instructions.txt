@@ -15,6 +15,7 @@ CONNECTION SETTINGS
 Server (or SFTP address): mason.gmu.edu
 Username: Mason Username (NetID) – not including @gmu.edu
 Password: Patriot Pass password (the same you use to login to your Mason email)
+Port: 22
 Remote filepath (or root directory): /nfs/jiju41/org/wpill
 Your URL is: https://orgs.gmu.edu/wpill
 
