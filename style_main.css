@@ -330,7 +330,9 @@ h3{
 }
 
 .card_text>p{
-  text-align: center;
+  text-align:center;
+  text-justify: inter-word;
+  margin-top: 1rem;
   padding-left: 1rem;
   padding-right: 1rem;
 }
