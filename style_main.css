@@ -11,7 +11,7 @@ body, html {
   margin: 0;
   padding: 0;
   width: 100%;
-  height: 100%;
+  height: 100dvh;
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
@@ -67,12 +67,13 @@ h3{
   font-style: normal; 
   font-variant: normal; 
   font-weight: 700; 
-  line-height: 70px; 
+  line-height: normal; 
   display: inline;
-  font-size: 80px;
+  font-size: clamp(1.8em, 6vw, 5rem);
   overflow: visible;
   color: #18353f;  
-  word-wrap: break-word; 
+  word-wrap: break-word;
+  white-space: nowrap; 
 }
 
 .subtitle_text {
@@ -245,8 +246,9 @@ h3{
 }
 
 #banner {
-  width: 100%;
-  height: 425px;
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
   position: relative;
   display: flex;
   overflow: hidden;
@@ -265,8 +267,8 @@ h3{
     flex-direction: column;
     justify-content: end; 
     width: 100%;
-    padding: 0% 5% 5% 10%;
-    z-index: 0;
+    padding: 0% 10% 5% 10%;
+    z-index: 999;
 }
 
 #break {
@@ -469,7 +471,7 @@ ul{
 
 /*    Past Issues Page Content     */
 
-@media only screen and (max-width: 1000px){
+@media only screen and (max-width: 1100px){
 
   #cards{
     flex-direction: column;
@@ -477,9 +479,8 @@ ul{
   }
 
   #logo_ribbon>img {
-    scale: 60%;
-    top:-60px;
-    left:-20%;
+    scale: 90%;
+    top: -15px;
   }
 
   #body_content p{
@@ -496,11 +497,6 @@ ul{
   #cards{
     flex-direction: column;
     align-items: center;
-  }
-
-  .title_text {
-    font-size: 50px;
-    line-height: 55px;
   }
 
   .text_box{
