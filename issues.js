@@ -5,27 +5,27 @@ issues = [
         "editor": ["Thomas Purnell"],
         "article": [
             {
-                "author": "Jun Aramaki:",
+                "author": "Jun Aramaki",
                 "title": "From a Myth to an Article of Faith",
                 "file": "texts/issue_1/1_Aramaki-compressed.pdf"
             },
             {
-                "author": "P. Hironymous:",
+                "author": "P. Hironymous",
                 "title": "Third Person Indicative /-s/: Constraints on Second Language Acquisition",
                 "file": "texts/issue_1/1_Hironymous-compressed.pdf"
             },
             {
-                "author": "Gigi McGuire Leach:",
+                "author": "Gigi McGuire Leach",
                 "title": "American Sign Language and the Second Language Learner: the Influence of Modality on Adult Second Language Acquisition",
                 "file": "texts/issue_1/1_Leach-compressed.pdf"
             },
             {
-                "author": "Melisa Lozano:",
+                "author": "Melisa Lozano",
                 "title": "Some Notes on Stalnaker's Possible-World Theory of Propositions",
                 "file": "texts/issue_1/1_Lozano-compressed.pdf"
             },
             {
-                "author": "Thomas Purnell:",
+                "author": "Thomas Purnell",
                 "title": "Practical Theory: Effects of Postlexical Rules on Second Language Pronunciation.",
                 "file": "texts/issue_1/1_Purnell-compressed.pdf"
             }
@@ -41,27 +41,27 @@ issues = [
         ],
         "article": [
             {
-                "author": "Thomas Purnell:",
+                "author": "Thomas Purnell",
                 "title": "A Clarification of Asian Tonal Features",
                 "file": "texts/issue_2/2_Purnell-compressed.pdf"
             },
             {
-                "author": "Carl Bailey:",
+                "author": "Carl Bailey",
                 "title": "\"He's dumb as hell, but he ain't crazy\": A Psycholinguistic Analysis of Steinbeck's Lennie Small",
                 "file": "texts/issue_2/2_Bailey-compressed.pdf"
             },
             {
-                "author": "Mary Meares:",
+                "author": "Mary Meares",
                 "title": "Parallel Distributed Processing and Universal Grammar: Complementary Concepts in a Biological Experiment for the Critical Period in Language Acquisition",
                 "file": "texts/issue_2/2_Meares-compressed.pdf"
             },
             {
-                "author": "Takako Kawasaki:",
+                "author": "Takako Kawasaki",
                 "title": "Parameter Settings and the Subset Principle in L2 Acquisition of the Binding Theory",
                 "file": "texts/issue_2/2_Kawasaki-compressed.pdf"
             },
             {
-                "author": "Stephen Hayle:",
+                "author": "Stephen Hayle",
                 "title": "On the Null Subjects of Chinese Weather Verbs",
                 "file": "texts/issue_2/2_Hayle-compressed.pdf"
             }
@@ -76,27 +76,27 @@ issues = [
         ],
         "article": [
             {
-                "author": "Charles Baker:",
+                "author": "Charles Baker",
                 "title": "Vowel Epenthesis by Spanish Learners of English",
                 "file": "texts/issue_3/3_Baker-compressed.pdf"
             },
             {
-                "author": "Cam Esser:",
+                "author": "Cam Esser",
                 "title": "How Does Motivation to Learn a Second Language Differ from Other Performance Skill Motivation?",
                 "file": "texts/issue_3/3_Esser-compressed.pdf"
             },
             {
-                "author": "Sarah Roman:",
+                "author": "Sarah Roman",
                 "title": "Two Models for Understanding Differential Substitution in Interlanguage",
                 "file": "texts/issue_3/3_Roman-compressed.pdf"
             },
             {
-                "author": "Penelope Roberts:",
+                "author": "Penelope Roberts",
                 "title": "Maximally Unspecified Vowels in Farsi",
                 "file": "texts/issue_3/3_Roberts-compressed.pdf"
             },
             {
-                "author": "Alexanders Starz:",
+                "author": "Alexanders Starz",
                 "title": "On Modularity",
                 "file": "texts/issue_3/3_Starz-compressed.pdf"
             }
@@ -112,22 +112,22 @@ issues = [
         },
         "article": [
             {
-                "author": "Marisa Schaer:",
+                "author": "Marisa Schaer",
                 "title": "The Occurrence of Gerunds in CP Clauses",
                 "file": "texts/issue_4/4_Schaer-compressed.pdf"
             },
             {
-                "author": "Carol Brouha:",
+                "author": "Carol Brouha",
                 "title": "Variance in Thematic Roles Projected by Middles: A Case for Formal Role Subcategorization Grids",
                 "file": "texts/issue_4/4_Brouha-compressed.pdf"
             },
             {
-                "author": "Namassawan Padibat and Caroline Cochran:",
+                "author": "Namassawan Padibat and Caroline Cochran",
                 "title": "An Investigation of Sonority Dispersion in Thai-English Interlanguage Codas",
                 "file": "texts/issue_4/4_Patibat-compressed.pdf"
             },
             {
-                "author": "Stephanie Buchner:",
+                "author": "Stephanie Buchner",
                 "title": "Consonant Harmony: A Comparison of Two Explanations Based On Underspecification Theory.",
                 "file": "texts/issue_4/4_Buchner-compressed.pdf"
             }
@@ -146,37 +146,37 @@ issues = [
         },
         "article": [
             {
-                "author": "Miwako Hisagi:",
+                "author": "Miwako Hisagi",
                 "title": "Mora versus Syllable: An Analysis of Native Speakers' Production from a Japanese Language Game",
                 "file": "texts/issue_5/5_Hisagi-compressed.pdf"
             },
             {
-                "author": "Nikoleta Dineen and Daiva Miller:",
+                "author": "Nikoleta Dineen and Daiva Miller",
                 "title": "The Derivation of a Sonority Hierarchy from the Syllable Contact Law (SCL) and the Productivity of the SCL in American English",
                 "file": "texts/issue_5/5_Dineen-compressed.pdf"
             },
             {
-                "author": "Marietta Bradinova and David Welch:",
+                "author": "Marietta Bradinova and David Welch",
                 "title": "Sonority Violations in Slavic Languages: Bulgarian, Russian, and Polish",
                 "file": "texts/issue_5/5_Bradinova-compressed.pdf"
             },
             {
-                "author": "Anthhony Nguyen and Carol Brouha:",
+                "author": "Anthhony Nguyen and Carol Brouha",
                 "title": "The Production of Word-Final Consonants in English by L1 Speakers of Vietnamese",
                 "file": "texts/issue_5/5_Nguyen-compressed.pdf"
             },
             {
-                "author": "Jane Kirsch:",
+                "author": "Jane Kirsch",
                 "title": "Negative Contractions and Extraction Sites",
                 "file": "texts/issue_5/5_Kirsch-compressed.pdf"
             },
             {
-                "author": "Cathleen O'Brien:",
+                "author": "Cathleen O'Brien",
                 "title": "The Jerry Springer Show Takes on the Cooperative Principle",
                 "file": "texts/issue_5/5_Obrien-compressed.pdf"
             },
             {
-                "author": "Marisa Schaer:",
+                "author": "Marisa Schaer",
                 "title": "Command of the Language",
                 "file": "texts/issue_5/5_Schaer-compressed.pdf"
             }
@@ -195,42 +195,42 @@ issues = [
         },
         "article": [
             {
-                "author": "Kathleen Baker:",
+                "author": "Kathleen Baker",
                 "title": "Seussisms and Violations to Universal Language Constraints",
                 "file": "texts/issue_6/6_Baker-compressed.pdf"
             },
             {
-                "author": "Dawn Heverly:",
+                "author": "Dawn Heverly",
                 "title": "Phonological Aspects of Glossolalia: A response to Motley",
                 "file": "texts/issue_6/6_Heverly-compressed.pdf"
             },
             {
-                "author": "Sheryl Sherwin:",
+                "author": "Sheryl Sherwin",
                 "title": "The Sonority Sequencing Principle in Interlanguaage Phonology",
                 "file": "texts/issue_6/6_Sherwin-compressed.pdf"
             },
             {
-                "author": "John Alphin:",
+                "author": "John Alphin",
                 "title": "Universal Grammar and Language Pedagogy: Has SLA Research Linked Theory and Practice?",
                 "file": "texts/issue_6/6_Alphin-compressed.pdf"
             },
             {
-                "author": "Anthony Nguyen:",
+                "author": "Anthony Nguyen",
                 "title": "The Systematic Reduction of English Syllable Final Consonants",
                 "file": "texts/issue_6/6_Nguyen-compressed.pdf"
             },
             {
-                "author": "Marietta Bradinova:",
+                "author": "Marietta Bradinova",
                 "title": "Subject Control and Nonsubject Control",
                 "file": "texts/issue_6/6_Bradinova-compressed.pdf"
             },
             {
-                "author": "Terri Rhyne:",
+                "author": "Terri Rhyne",
                 "title": "It, There and First Conjuncts",
                 "file": "texts/issue_6/6_Rhyne-compressed.pdf"
             },
             {
-                "author": "Brian Rose:",
+                "author": "Brian Rose",
                 "title": "<i>-Ing<\/i>lish 101",
                 "file": "texts/issue_6/6_Rose-compressed.pdf"
             }
@@ -249,42 +249,42 @@ issues = [
         },
         "article": [
             {
-                "author": "Maria S. Beldon:",
+                "author": "Maria S. Beldon",
                 "title": "Order Preference for Reduplicated Words with Differing Vowels",
                 "file": "texts/issue_7/7_Beldon-compressed.pdf"
             },
             {
-                "author": "Peter T. Ruffner:",
+                "author": "Peter T. Ruffner",
                 "title": "Epenthesis and Fricatives in Final Consonant Clusters",
                 "file": "texts/issue_7/7_Ruffner-compressed.pdf"
             },
             {
-                "author": "Christina Villafa&ntilde;a:",
+                "author": "Christina Villafa&ntilde;a",
                 "title": "Emergence of the Unmarked in Interlanguage Coda Production",
                 "file": "texts/issue_7/7_Villafana-compressed.pdf"
             },
             {
-                "author": "Kathleen Baker:",
+                "author": "Kathleen Baker",
                 "title": "Synonymy: Not the Sole Cause of Blocking",
                 "file": "texts/issue_7/7_Baker-compressed.pdf"
             },
             {
-                "author": "Melissa R. Olt:",
+                "author": "Melissa R. Olt",
                 "title": "Semantics in Support of the Quantifier Float",
                 "file": "texts/issue_7/7_Olt-compressed.pdf"
             },
             {
-                "author": "Szilvia Oszko:",
+                "author": "Szilvia Oszko",
                 "title": "A Lexicalist Approach To Absolute Reflexives",
                 "file": "texts/issue_7/7_Oszko-compressed.pdf"
             },
             {
-                "author": "Christina Villafa&ntilde;a:",
+                "author": "Christina Villafa&ntilde;a",
                 "title": "Subject Prominence in English Middles",
                 "file": "texts/issue_7/7_Villafana1-compressed.pdf"
             },
             {
-                "author": "Abby Brown:",
+                "author": "Abby Brown",
                 "title": "\"What happened to my Yiddish?\"",
                 "file": "texts/issue_7/7_Brown-compressed.pdf"
             }
@@ -304,42 +304,42 @@ issues = [
         },
         "article": [
             {
-                "author": "Barbara Heigl:",
+                "author": "Barbara Heigl",
                 "title": "[s] Under the influence of alcohol.",
                 "file": "texts/issue_8/8_Heigl2-compressed.pdf"
             },
             {
-                "author": "Thamir Hilanto:",
+                "author": "Thamir Hilanto",
                 "title": "On Language Use: A Theoretical Treaty on the Workings of Language.",
                 "file": "texts/issue_8/8_Hilanto-compressed.pdf"
             },
             {
-                "author": "Jodi Lamm:",
+                "author": "Jodi Lamm",
                 "title": "Making Sense out of Nonsense Poetry.",
                 "file": "texts/issue_8/8_Lamm-compressed.pdf"
             },
             {
-                "author": "Shanna Phillips:",
+                "author": "Shanna Phillips",
                 "title": "Exceptionality of /s/: Evidence from Aphasia.",
                 "file": "texts/issue_8/8_Phillips-compressed.pdf"
             },
             {
-                "author": "Barbara Rachlin:",
+                "author": "Barbara Rachlin",
                 "title": "Derrida's Questionable Logic.",
                 "file": "texts/issue_8/8_Rachlin2-compressed.pdf"
             },
             {
-                "author": "Barbara Rachlin:",
+                "author": "Barbara Rachlin",
                 "title": "Looking for Searle's Black Swan",
                 "file": "texts/issue_8/8_Rachlin1-compressed.pdf"
             },
             {
-                "author": "Tanja Szabo:",
+                "author": "Tanja Szabo",
                 "title": "A Study of Monopthongization of /aj/ to /a:/ in Rural Eastern Kentucky and West Virginia Appalachian Regions.",
                 "file": "texts/issue_8/8_Szabo-compressed.pdf"
             },
             {
-                "author": "Benjamin F. Taylor:",
+                "author": "Benjamin F. Taylor",
                 "title": "Why not \"Spop\"?: OCP and Prominent Position Effects on the English Lexicon.",
                 "file": "texts/issue_8/8_Taylor-compressed.pdf"
             }
@@ -359,37 +359,37 @@ issues = [
         },
         "article": [
             {
-                "author": "Chris Alderman:",
+                "author": "Chris Alderman",
                 "title": "Glossomimesis.",
                 "file": "texts/issue_9/9_ChrisAlderman.pdf"
             },
             {
-                "author": "John Kinney:",
+                "author": "John Kinney",
                 "title": "The L2 English production of [ð] in word-initial onset and intervocalic onset position: A pilot study.",
                 "file": "texts/issue_9/9_JohnKinney.pdf"
             },
             {
-                "author": "Justin Voigt:",
+                "author": "Justin Voigt",
                 "title": "The Distinction between Noun-Phrase Premodifiers: Nouns are not Adjectives.",
                 "file": "texts/issue_9/9_JustinVoigt_NP Premodifiers.pdf"
             },
             {
-                "author": "Justin Voigt:",
+                "author": "Justin Voigt",
                 "title": "Can the Syntactic Burden on Working Memory Account for Island Constraints?",
                 "file": "texts/issue_9/9_JustinVoigt_Working Memory-compressed.pdf"
             },
             {
-                "author": "Kelly Enochson:",
+                "author": "Kelly Enochson",
                 "title": "A binary features approach to person and number asymmetry.",
                 "file": "texts/issue_9/9_KellyEnochson-compressed.pdf"
             },
             {
-                "author": "Michael Klein:",
+                "author": "Michael Klein",
                 "title": "Aspir(at)ing to Speak Like a Native: Tracking Voice Onset Time in the Acquisition of English Stops.",
                 "file": "texts/issue_9/9_MikeKlein-compressed.pdf"
             },
             {
-                "author": "R. Cameron Petty:",
+                "author": "R. Cameron Petty",
                 "title": "Matrix Relationship Theory.",
                 "file": "texts/issue_9/9_R. Cameron Petty-compressed.pdf"
             }
@@ -408,27 +408,27 @@ issues = [
         },
         "article": [
             {
-                "author": "Shadden Ahmad Alfadhil:",
+                "author": "Shadden Ahmad Alfadhil",
                 "title": "The Accuracy of Producing the Emphatic and Non-emphatic [s] Among Arabic-English Bilingual Children.",
                 "file": "texts/issue_10/Alfadhil_2022.pdf"
             },
             {
-                "author": "Esther R. Namubiru:",
+                "author": "Esther R. Namubiru",
                 "title": "Nuancing Resilience for the Post-Pandemic Writing Center Community.",
                 "file": "texts/issue_10/Namubiru_2022.pdf"
             },
             {
-                "author": "Nic Nusbaumer:",
+                "author": "Nic Nusbaumer",
                 "title": "Monitoring Policy Post-Implementation: Rhetorical Chorus and the Limits of Opaque Policy Evaluation Frameworks.",
                 "file": "texts/issue_10/Nusbaumer_2022.pdf"
             },
             {
-                "author": "Arlee Pearlswig:",
+                "author": "Arlee Pearlswig",
                 "title": "Anime Japanese and Nickname Formation Constraints: Comparing Standard Language to Media Language.",
                 "file": "texts/issue_10/Pearlswig_2022.pdf"
             },
             {
-                "author": "Kristen K. Tiscione:",
+                "author": "Kristen K. Tiscione",
                 "title": "Incorporating Ancient Egyptian Rhetoric Into Contemporary Judicial Speech.",
                 "file": "texts/issue_10/Tiscione_2022.pdf"
             }
@@ -448,22 +448,22 @@ issues = [
         },
         "article": [
             {
-                "author": "Janalyn Miklas:",
+                "author": "Janalyn Miklas",
                 "title": "Turkish Morphology Acquisition: A comparative analysis of L1 and L2 acquisition processing models",
                 "file": "texts/issue_11/Miklas_2023.pdf"
             },
             {
-                "author": "Willmaria Miranda:",
+                "author": "Willmaria Miranda",
                 "title": "Writing Studies Beliefs & Values as Expressed Through Research Methods Texts: The Case for an Interdisciplinary Approach to Equitable Research Practices",
                 "file": "texts/issue_11/Miranda_2023.pdf"
             },
             {
-                "author": "Arlee Pearlswig:",
+                "author": "Arlee Pearlswig",
                 "title": "Patterns of Distribution of Noun Case Frequency",
                 "file": "texts/issue_11/Pearlswig_2023.pdf"
             },
             {
-                "author": "Alaina Ruffin and Anthony Peraino:",
+                "author": "Alaina Ruffin and Anthony Peraino",
                 "title": "“The Youth Shall Lead”: A Linguistic Justice Project on Student Linguistic Profiles in Higher Education",
                 "file": "texts/issue_11/Ruffin_2023.pdf"
             }
